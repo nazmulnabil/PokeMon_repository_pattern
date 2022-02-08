@@ -1,0 +1,4 @@
+#Tue Feb 08 17:17:19 BDT 2022
+base.0=/home/ini-pc-2/StudioProjects/repository_pattern/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
